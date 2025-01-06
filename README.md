@@ -1,4 +1,4 @@
-# Solana RPC Benchmark Tool
+# Solana RPC Rate Limit Test Tool
 
 This GoLang-built tool is designed to transmit multiple RPC transactions to a specified Solana RPC endpoint, primarily to evaluate rate limits and response times. The tool helps users understand how quickly an RPC endpoint can accept and respond to requests, thereby shedding light on the endpoint's capacity and robustness under various loads. It is crucial for identifying potential bottlenecks and optimizing system responsiveness, focusing specifically on rate limits and response times rather than full transaction confirmation metrics.
 
